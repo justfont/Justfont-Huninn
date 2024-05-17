@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+	<advance width="1000"/>
+	<unicode hex="2014"/>
+	<note>
+		emdash
+	</note>
+	<outline>
+		<contour>
+			<point x="40" y="308" type="curve" smooth="yes"/>
+			<point x="959" y="308" type="line" smooth="yes"/>
+			<point x="981" y="308"/>
+			<point x="1000" y="324"/>
+			<point x="1000" y="348" type="curve" smooth="yes"/>
+			<point x="1000" y="370"/>
+			<point x="981" y="389"/>
+			<point x="959" y="389" type="curve" smooth="yes"/>
+			<point x="40" y="389" type="line" smooth="yes"/>
+			<point x="17" y="389"/>
+			<point x="0" y="370"/>
+			<point x="0" y="348" type="curve" smooth="yes"/>
+			<point x="0" y="325"/>
+			<point x="18" y="308"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

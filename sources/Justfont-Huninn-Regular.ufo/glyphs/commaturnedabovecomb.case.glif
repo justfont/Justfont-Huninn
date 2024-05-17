@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb.case" format="2">
+	<advance width="0"/>
+	<note>
+		uni0312.case
+	</note>
+	<outline>
+		<contour>
+			<point x="-363" y="729" type="curve" smooth="yes"/>
+			<point x="-334" y="729"/>
+			<point x="-312" y="752"/>
+			<point x="-312" y="780" type="curve" smooth="yes"/>
+			<point x="-312" y="808"/>
+			<point x="-334" y="827"/>
+			<point x="-361" y="827" type="curve"/>
+			<point x="-361" y="849"/>
+			<point x="-349" y="859"/>
+			<point x="-326" y="875" type="curve" smooth="yes"/>
+			<point x="-317" y="881"/>
+			<point x="-312" y="888"/>
+			<point x="-312" y="896" type="curve" smooth="yes"/>
+			<point x="-312" y="910"/>
+			<point x="-324" y="921"/>
+			<point x="-334" y="921" type="curve" smooth="yes"/>
+			<point x="-340" y="921"/>
+			<point x="-347" y="918"/>
+			<point x="-352" y="914" type="curve" smooth="yes"/>
+			<point x="-407" y="870"/>
+			<point x="-416" y="819"/>
+			<point x="-416" y="781" type="curve" smooth="yes"/>
+			<point x="-416" y="750"/>
+			<point x="-393" y="729"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

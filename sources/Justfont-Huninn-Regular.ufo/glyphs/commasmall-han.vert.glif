@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commasmall-han.vert" format="2">
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="582" y="192" type="curve" smooth="yes"/>
+			<point x="604" y="190"/>
+			<point x="625" y="203"/>
+			<point x="624" y="233" type="curve" smooth="yes"/>
+			<point x="623" y="260"/>
+			<point x="602" y="289"/>
+			<point x="547" y="348" type="curve" smooth="yes"/>
+			<point x="483" y="411"/>
+			<point x="449" y="441"/>
+			<point x="426" y="443" type="curve" smooth="yes"/>
+			<point x="398" y="445"/>
+			<point x="382" y="430"/>
+			<point x="382" y="409" type="curve" smooth="yes"/>
+			<point x="382" y="394"/>
+			<point x="392" y="385"/>
+			<point x="402" y="374" type="curve" smooth="yes"/>
+			<point x="453" y="321"/>
+			<point x="502" y="264"/>
+			<point x="533" y="224" type="curve" smooth="yes"/>
+			<point x="550" y="202"/>
+			<point x="567" y="193"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

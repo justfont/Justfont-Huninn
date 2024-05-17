@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni531A" format="2">
+	<advance width="1000"/>
+	<unicode hex="531A"/>
+	<note>
+		uni531A
+	</note>
+	<outline>
+		<contour>
+			<point x="221" y="-38" type="curve"/>
+			<point x="893" y="-38" type="line" smooth="yes"/>
+			<point x="928" y="-38"/>
+			<point x="944" y="-24"/>
+			<point x="944" y="4" type="curve" smooth="yes"/>
+			<point x="944" y="31"/>
+			<point x="929" y="44"/>
+			<point x="893" y="44" type="curve" smooth="yes"/>
+			<point x="260" y="44" type="line" smooth="yes"/>
+			<point x="220" y="44"/>
+			<point x="197" y="64"/>
+			<point x="197" y="104" type="curve" smooth="yes"/>
+			<point x="197" y="596" type="line" smooth="yes"/>
+			<point x="197" y="638"/>
+			<point x="220" y="658"/>
+			<point x="260" y="658" type="curve" smooth="yes"/>
+			<point x="883" y="658" type="line" smooth="yes"/>
+			<point x="918" y="658"/>
+			<point x="934" y="671"/>
+			<point x="934" y="699" type="curve" smooth="yes"/>
+			<point x="934" y="727"/>
+			<point x="917" y="740"/>
+			<point x="883" y="740" type="curve" smooth="yes"/>
+			<point x="221" y="740" type="line"/>
+			<point x="144" y="745"/>
+			<point x="108" y="710"/>
+			<point x="113" y="633" type="curve"/>
+			<point x="113" y="69" type="line"/>
+			<point x="108" y="-8"/>
+			<point x="144" y="-43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

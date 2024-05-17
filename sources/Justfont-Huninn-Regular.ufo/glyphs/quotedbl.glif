@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="2">
+	<advance width="403"/>
+	<unicode hex="0022"/>
+	<note>
+		quotedbl
+	</note>
+	<outline>
+		<contour>
+			<point x="292" y="528" type="curve" smooth="yes"/>
+			<point x="311" y="528"/>
+			<point x="321" y="540"/>
+			<point x="324" y="561" type="curve" smooth="yes"/>
+			<point x="345" y="703" type="line"/>
+			<point x="346" y="711" type="line"/>
+			<point x="346" y="746"/>
+			<point x="327" y="764"/>
+			<point x="292" y="764" type="curve" smooth="yes"/>
+			<point x="257" y="764"/>
+			<point x="238" y="747"/>
+			<point x="238" y="713" type="curve" smooth="yes"/>
+			<point x="239" y="703" type="line"/>
+			<point x="261" y="561" type="line" smooth="yes"/>
+			<point x="264" y="540"/>
+			<point x="274" y="528"/>
+		</contour>
+		<contour>
+			<point x="111" y="528" type="curve" smooth="yes"/>
+			<point x="129" y="528"/>
+			<point x="140" y="540"/>
+			<point x="143" y="561" type="curve" smooth="yes"/>
+			<point x="163" y="703" type="line"/>
+			<point x="165" y="713" type="line" smooth="yes"/>
+			<point x="166" y="724"/>
+			<point x="161" y="735"/>
+			<point x="151" y="746" type="curve" smooth="yes"/>
+			<point x="141" y="757"/>
+			<point x="128" y="764"/>
+			<point x="111" y="764" type="curve" smooth="yes"/>
+			<point x="76" y="764"/>
+			<point x="58" y="747"/>
+			<point x="58" y="712" type="curve"/>
+			<point x="59" y="703" type="line"/>
+			<point x="79" y="561" type="line" smooth="yes"/>
+			<point x="82" y="540"/>
+			<point x="93" y="528"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

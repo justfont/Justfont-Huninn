@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+	<advance width="726"/>
+	<unicode hex="20A3"/>
+	<note>
+		franc
+	</note>
+	<outline>
+		<contour>
+			<point x="139" y="-6" type="curve" smooth="yes"/>
+			<point x="163" y="-6"/>
+			<point x="185" y="14"/>
+			<point x="185" y="39" type="curve" smooth="yes"/>
+			<point x="185" y="299" type="line"/>
+			<point x="338" y="299" type="line" smooth="yes"/>
+			<point x="361" y="299"/>
+			<point x="381" y="316"/>
+			<point x="381" y="341" type="curve" smooth="yes"/>
+			<point x="381" y="364"/>
+			<point x="361" y="384"/>
+			<point x="338" y="384" type="curve" smooth="yes"/>
+			<point x="185" y="384" type="line"/>
+			<point x="185" y="586" type="line" smooth="yes"/>
+			<point x="185" y="594"/>
+			<point x="188" y="598"/>
+			<point x="196" y="598" type="curve" smooth="yes"/>
+			<point x="421" y="598" type="line" smooth="yes"/>
+			<point x="444" y="598"/>
+			<point x="464" y="615"/>
+			<point x="464" y="640" type="curve" smooth="yes"/>
+			<point x="464" y="663"/>
+			<point x="444" y="683"/>
+			<point x="421" y="683" type="curve" smooth="yes"/>
+			<point x="139" y="683" type="line" smooth="yes"/>
+			<point x="113" y="683"/>
+			<point x="94" y="661"/>
+			<point x="94" y="637" type="curve" smooth="yes"/>
+			<point x="94" y="39" type="line" smooth="yes"/>
+			<point x="94" y="15"/>
+			<point x="114" y="-6"/>
+		</contour>
+		<contour>
+			<point x="473" y="-6" type="curve" smooth="yes"/>
+			<point x="497" y="-6"/>
+			<point x="519" y="14"/>
+			<point x="519" y="39" type="curve" smooth="yes"/>
+			<point x="519" y="336" type="line"/>
+			<point x="555" y="391"/>
+			<point x="608" y="421"/>
+			<point x="669" y="421" type="curve" smooth="yes"/>
+			<point x="674" y="421" type="line" smooth="yes"/>
+			<point x="700" y="421"/>
+			<point x="720" y="438"/>
+			<point x="720" y="464" type="curve" smooth="yes"/>
+			<point x="720" y="488"/>
+			<point x="701" y="509"/>
+			<point x="676" y="509" type="curve" smooth="yes"/>
+			<point x="671" y="509" type="line" smooth="yes"/>
+			<point x="614" y="509"/>
+			<point x="563" y="478"/>
+			<point x="519" y="419" type="curve"/>
+			<point x="519" y="458" type="line" smooth="yes"/>
+			<point x="519" y="482"/>
+			<point x="497" y="504"/>
+			<point x="473" y="504" type="curve" smooth="yes"/>
+			<point x="447" y="504"/>
+			<point x="428" y="482"/>
+			<point x="428" y="458" type="curve" smooth="yes"/>
+			<point x="428" y="39" type="line" smooth="yes"/>
+			<point x="428" y="15"/>
+			<point x="448" y="-6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

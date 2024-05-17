@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vav-hb" format="2">
+	<advance width="261"/>
+	<unicode hex="05D5"/>
+	<note>
+		uni05D5
+	</note>
+	<outline>
+		<contour>
+			<point x="131" y="-6" type="curve" smooth="yes"/>
+			<point x="156" y="-6"/>
+			<point x="176" y="16"/>
+			<point x="176" y="40" type="curve" smooth="yes"/>
+			<point x="176" y="535" type="line" smooth="yes"/>
+			<point x="176" y="560"/>
+			<point x="154" y="581"/>
+			<point x="130" y="581" type="curve" smooth="yes"/>
+			<point x="104" y="581"/>
+			<point x="85" y="560"/>
+			<point x="85" y="535" type="curve" smooth="yes"/>
+			<point x="85" y="40" type="line" smooth="yes"/>
+			<point x="85" y="16"/>
+			<point x="106" y="-6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-05-17 10:11:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>
