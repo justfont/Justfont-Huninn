@@ -417,7 +417,6 @@ sub f f l by f_f_l;
 sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
-sub uni518D zerowidthjoiner uni898B by _z_j_b_y.liga;
 } liga;
 
 feature fwid {
