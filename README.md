@@ -1,16 +1,16 @@
 
 # Justfont Huninn
 
-[![][Fontbakery]](https://justfont.github.io/Justfont-Huninn.git.git.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://justfont.github.io/Justfont-Huninn.git.git.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://justfont.github.io/Justfont-Huninn.git.git.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://justfont.github.io/Justfont-Huninn.git.git.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://justfont.github.io/Justfont-Huninn/fontbakery/fontbakery-report.html)
+[![][Universal]](https://justfont.github.io/Justfont-Huninn/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://justfont.github.io/Justfont-Huninn/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://justfont.github.io/Justfont-Huninn/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn.git.git.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn.git.git.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn.git.git.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn.git.git.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn.git.git.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjustfont%2FJustfont-Huninn%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Justfont Huninn is an open-source Traditional Chinese round typeface based on the [Kosugi Maru](https://github.com/googlefonts/kosugi-maru) and [Varela Round](https://fonts.google.com/specimen/Varela+Round) fonts, specially designed for better use in Taiwan.
 
