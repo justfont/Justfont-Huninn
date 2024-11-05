@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="0"/>
+  <note>
+uni0308.case
+</note>
+  <outline>
+    <contour>
+      <point x="-113" y="729" type="curve" smooth="yes"/>
+      <point x="-86" y="729"/>
+      <point x="-62" y="752"/>
+      <point x="-62" y="779" type="curve" smooth="yes"/>
+      <point x="-62" y="807"/>
+      <point x="-86" y="830"/>
+      <point x="-113" y="830" type="curve" smooth="yes"/>
+      <point x="-141" y="830"/>
+      <point x="-164" y="807"/>
+      <point x="-164" y="779" type="curve" smooth="yes"/>
+      <point x="-164" y="752"/>
+      <point x="-141" y="729"/>
+    </contour>
+    <contour>
+      <point x="-277" y="729" type="curve" smooth="yes"/>
+      <point x="-250" y="729"/>
+      <point x="-227" y="752"/>
+      <point x="-227" y="779" type="curve" smooth="yes"/>
+      <point x="-227" y="807"/>
+      <point x="-250" y="830"/>
+      <point x="-277" y="830" type="curve" smooth="yes"/>
+      <point x="-305" y="830"/>
+      <point x="-328" y="807"/>
+      <point x="-328" y="779" type="curve" smooth="yes"/>
+      <point x="-328" y="752"/>
+      <point x="-305" y="729"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 10:11:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>
