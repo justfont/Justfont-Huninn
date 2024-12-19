@@ -66,9 +66,9 @@
     <key>openTypeHeadCreated</key>
     <string>2024/05/17 07:55:42</string>
     <key>openTypeHheaAscender</key>
-    <integer>1160</integer>
+    <integer>941</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-288</integer>
+    <integer>-239</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameLicense</key>
@@ -85,6 +85,10 @@
     <array>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>398</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -92,9 +96,9 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>851</integer>
+    <integer>941</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-149</integer>
+    <integer>-239</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
@@ -135,8 +139,20 @@
     <integer>1160</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>288</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptFontName</key>
     <string>JustfontHuninn-Regular</string>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
@@ -146,7 +162,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>xHeight</key>
     <integer>500</integer>
   </dict>
