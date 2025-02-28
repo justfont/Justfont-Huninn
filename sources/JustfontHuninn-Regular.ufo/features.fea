@@ -793,19 +793,19 @@ sub prolonged-kana by prolonged-kana.vert;
 table BASE {
   HorizAxis.BaseTagList             icfb    icft    ideo    romn;
   HorizAxis.BaseScriptList  
-                DFLT 	ideo  	    -91    793    -149    0,
-                hani  	ideo   	    -91    793    -149    0,
-                kana  	ideo   	    -91    793    -149    0,
-                latn  	romn    	-91    793    -149    0,
-                cyrl  	romn    	-91    793    -149    0,
-                grek  	romn   	    -91    793    -149    0;
+                DFLT 	ideo  	    -94    795    -148    0,
+                hani  	ideo   	    -94    795    -148    0,
+                kana  	ideo   	    -94    795    -148    0,
+                latn  	romn    	-94    795    -148    0,
+                cyrl  	romn    	-94    795    -148    0,
+                grek  	romn   	    -94    795    -148    0;
 
   VertAxis.BaseTagList              icfb    icft    ideo    romn;
   VertAxis.BaseScriptList 
-                DFLT  	ideo    	 59    941    0    149,
-                hani  	ideo    	 59    941    0    149,
-                kana  	ideo    	 59    941    0    149,
-                latn  	romn   	     59    941    0    149,
-                cyrl  	romn    	 59    941    0    149,
-                grek  	romn    	 59    941    0    149;
+                DFLT  	ideo    	 56    944    0    149,
+                hani  	ideo    	 56    944    0    149,
+                kana  	ideo    	 56    944    0    149,
+                latn  	romn   	     56    944    0    149,
+                cyrl  	romn    	 56    944    0    149,
+                grek  	romn    	 56    944    0    149;
 } BASE;
