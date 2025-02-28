@@ -139,6 +139,12 @@
     <integer>1160</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>288</integer>
+    <key>openTypeVheaVertTypoAscender</key>
+    <integer>500</integer>
+    <key>openTypeVheaVertTypoDescender</key>
+    <integer>-500</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
