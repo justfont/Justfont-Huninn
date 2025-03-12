@@ -39,22 +39,14 @@ fontbakery version: 0.13.2
 </tr>
 <tr>
 <td align="left">The following base characters are missing from the font: ɲ, Ɲ</td>
-<td align="left">bm_Latn (Bambara)</td>
+<td align="left">bm_Latn (Bambara) and dyu_Latn (Dyula)</td>
 </tr>
 <tr>
 <td align="left">Mandatory orthography codepoints:</td>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɲ, ɲ</td>
-<td align="left">dyu_Latn (Dyula)</td>
-</tr>
-<tr>
-<td align="left">Mandatory orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following base characters are missing from the font: Ƴ, Ɓ, ɓ, Ɗ, ƴ, ɗ</td>
+<td align="left">The following base characters are missing from the font: ɗ, Ƴ, Ɓ, ƴ, ɓ, Ɗ</td>
 <td align="left">ff_Latn (Fulah)</td>
 </tr>
 <tr>
@@ -62,7 +54,7 @@ fontbakery version: 0.13.2
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ƴ, ƙ, Ɓ, ɗ, Ɗ, ɓ, Ƴ, Ƙ</td>
+<td align="left">The following base characters are missing from the font: ɓ, Ƴ, ƙ, Ɗ, ɗ, Ɓ, Ƙ, ƴ</td>
 <td align="left">ha_Latn (Hausa)</td>
 </tr>
 <tr>
@@ -533,9 +525,9 @@ The following math glyphs have a different width, though:</p>
 <p>Width = 549:
 plus</p>
 <p>Width = 566:
-greater, less</p>
+less, greater</p>
 <p>Width = 695:
-divide, equal, minus</p>
+minus, equal, divide</p>
 <p>Width = 565:
 logicalnot</p>
 <p>Width = 592:
@@ -733,77 +725,77 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, math, todhri, hebrew, syriac, tifinagh, malayalam, old-permic, tai-le, duployan</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: duployan, malayalam, coptic, tai-le, math, syriac, canadian-aboriginal, old-permic, tifinagh, todhri, hebrew</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac, duployan</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, tifinagh, cherokee, caucasian-albanian, thai, sunuwar</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, gothic, thai, sunuwar, tifinagh, caucasian-albanian</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
 <li>U+035D COMBINING DOUBLE BREVE: not included in any glyphset definition</li>
 <li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
-<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: math, elbasan, greek</li>
-<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: math, elbasan, greek</li>
-<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: math, elbasan, greek</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: math, elbasan, greek</li>
-<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: math, elbasan, greek</li>
-<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: math, elbasan, greek</li>
-<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: math, elbasan, greek</li>
-<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: math, elbasan, greek</li>
-<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: math, elbasan, greek</li>
-<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: math, elbasan, greek</li>
-<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: math, elbasan, greek</li>
-<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: math, elbasan, greek</li>
-<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: math, elbasan, greek</li>
-<li>U+039E GREEK CAPITAL LETTER XI: try adding one of: math, elbasan, greek</li>
-<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: math, elbasan, greek</li>
-<li>U+03A0 GREEK CAPITAL LETTER PI: try adding one of: math, elbasan, greek</li>
-<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: math, elbasan, greek</li>
-<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: math, elbasan, greek</li>
-<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: math, elbasan, greek</li>
-<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: math, elbasan, greek</li>
-<li>U+03A6 GREEK CAPITAL LETTER PHI: try adding one of: math, elbasan, greek</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: math, elbasan, greek</li>
-<li>U+03A8 GREEK CAPITAL LETTER PSI: try adding one of: math, elbasan, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
-<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: math, greek</li>
-<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: math, greek</li>
-<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: math, greek</li>
-<li>U+03B4 GREEK SMALL LETTER DELTA: try adding one of: math, greek</li>
-<li>U+03B5 GREEK SMALL LETTER EPSILON: try adding one of: math, greek</li>
-<li>U+03B6 GREEK SMALL LETTER ZETA: try adding one of: math, greek</li>
-<li>U+03B7 GREEK SMALL LETTER ETA: try adding one of: math, greek</li>
-<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: math, greek</li>
-<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: math, greek</li>
-<li>U+03BA GREEK SMALL LETTER KAPPA: try adding one of: math, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03BD GREEK SMALL LETTER NU: try adding one of: math, greek</li>
-<li>U+03BE GREEK SMALL LETTER XI: try adding one of: math, greek</li>
-<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
-<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: math, greek</li>
-<li>U+03C2 GREEK SMALL LETTER FINAL SIGMA: try adding one of: math, greek</li>
-<li>U+03C3 GREEK SMALL LETTER SIGMA: try adding one of: math, greek</li>
-<li>U+03C4 GREEK SMALL LETTER TAU: try adding one of: math, greek</li>
-<li>U+03C5 GREEK SMALL LETTER UPSILON: try adding one of: math, greek</li>
-<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: math, greek</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
-<li>U+03C8 GREEK SMALL LETTER PSI: try adding one of: math, greek</li>
-<li>U+03C9 GREEK SMALL LETTER OMEGA: try adding one of: math, greek</li>
-<li>U+03D5 GREEK PHI SYMBOL: try adding one of: math, greek</li>
+<li>U+0391 GREEK CAPITAL LETTER ALPHA: try adding one of: greek, elbasan, math</li>
+<li>U+0392 GREEK CAPITAL LETTER BETA: try adding one of: greek, elbasan, math</li>
+<li>U+0393 GREEK CAPITAL LETTER GAMMA: try adding one of: greek, elbasan, math</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, elbasan, math</li>
+<li>U+0395 GREEK CAPITAL LETTER EPSILON: try adding one of: greek, elbasan, math</li>
+<li>U+0396 GREEK CAPITAL LETTER ZETA: try adding one of: greek, elbasan, math</li>
+<li>U+0397 GREEK CAPITAL LETTER ETA: try adding one of: greek, elbasan, math</li>
+<li>U+0398 GREEK CAPITAL LETTER THETA: try adding one of: greek, elbasan, math</li>
+<li>U+0399 GREEK CAPITAL LETTER IOTA: try adding one of: greek, elbasan, math</li>
+<li>U+039A GREEK CAPITAL LETTER KAPPA: try adding one of: greek, elbasan, math</li>
+<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: greek, elbasan, math</li>
+<li>U+039C GREEK CAPITAL LETTER MU: try adding one of: greek, elbasan, math</li>
+<li>U+039D GREEK CAPITAL LETTER NU: try adding one of: greek, elbasan, math</li>
+<li>U+039E GREEK CAPITAL LETTER XI: try adding one of: greek, elbasan, math</li>
+<li>U+039F GREEK CAPITAL LETTER OMICRON: try adding one of: greek, elbasan, math</li>
+<li>U+03A0 GREEK CAPITAL LETTER PI: try adding one of: greek, elbasan, math</li>
+<li>U+03A1 GREEK CAPITAL LETTER RHO: try adding one of: greek, elbasan, math</li>
+<li>U+03A3 GREEK CAPITAL LETTER SIGMA: try adding one of: greek, elbasan, math</li>
+<li>U+03A4 GREEK CAPITAL LETTER TAU: try adding one of: greek, elbasan, math</li>
+<li>U+03A5 GREEK CAPITAL LETTER UPSILON: try adding one of: greek, elbasan, math</li>
+<li>U+03A6 GREEK CAPITAL LETTER PHI: try adding one of: greek, elbasan, math</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: greek, elbasan, math</li>
+<li>U+03A8 GREEK CAPITAL LETTER PSI: try adding one of: greek, elbasan, math</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, elbasan, math</li>
+<li>U+03B1 GREEK SMALL LETTER ALPHA: try adding one of: greek, math</li>
+<li>U+03B2 GREEK SMALL LETTER BETA: try adding one of: greek, math</li>
+<li>U+03B3 GREEK SMALL LETTER GAMMA: try adding one of: greek, math</li>
+<li>U+03B4 GREEK SMALL LETTER DELTA: try adding one of: greek, math</li>
+<li>U+03B5 GREEK SMALL LETTER EPSILON: try adding one of: greek, math</li>
+<li>U+03B6 GREEK SMALL LETTER ZETA: try adding one of: greek, math</li>
+<li>U+03B7 GREEK SMALL LETTER ETA: try adding one of: greek, math</li>
+<li>U+03B8 GREEK SMALL LETTER THETA: try adding one of: greek, math</li>
+<li>U+03B9 GREEK SMALL LETTER IOTA: try adding one of: greek, math</li>
+<li>U+03BA GREEK SMALL LETTER KAPPA: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03BD GREEK SMALL LETTER NU: try adding one of: greek, math</li>
+<li>U+03BE GREEK SMALL LETTER XI: try adding one of: greek, math</li>
+<li>U+03BF GREEK SMALL LETTER OMICRON: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
+<li>U+03C1 GREEK SMALL LETTER RHO: try adding one of: greek, math</li>
+<li>U+03C2 GREEK SMALL LETTER FINAL SIGMA: try adding one of: greek, math</li>
+<li>U+03C3 GREEK SMALL LETTER SIGMA: try adding one of: greek, math</li>
+<li>U+03C4 GREEK SMALL LETTER TAU: try adding one of: greek, math</li>
+<li>U+03C5 GREEK SMALL LETTER UPSILON: try adding one of: greek, math</li>
+<li>U+03C6 GREEK SMALL LETTER PHI: try adding one of: greek, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+03C8 GREEK SMALL LETTER PSI: try adding one of: greek, math</li>
+<li>U+03C9 GREEK SMALL LETTER OMEGA: try adding one of: greek, math</li>
+<li>U+03D5 GREEK PHI SYMBOL: try adding one of: greek, math</li>
 <li>U+05B0 HEBREW POINT SHEVA: try adding hebrew</li>
 <li>U+05B1 HEBREW POINT HATAF SEGOL: try adding hebrew</li>
 <li>U+05B2 HEBREW POINT HATAF PATAH: try adding hebrew</li>
@@ -851,8 +843,8 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: lepcha, tagbanwa, tai-tham, syriac, tirhuta, arabic, kharoshthi, malayalam, tagalog, hanunoo, chakma, kaithi, bhaiksuki, kayah-li, newa, pahawh-hmong, yi, hebrew, new-tai-lue, syloti-nagri, manichaean, warang-citi, thaana, limbu, modi, masaram-gondi, rejang, sharada, khmer, brahmi, meetei-mayek, mongolian, kannada, nko, balinese, old-hungarian, thai, khojki, javanese, hanifi-rohingya, oriya, zanabazar-square, gujarati, tifinagh, sinhala, devanagari, phags-pa, lao, siddham, buginese, gunjala-gondi, khudawadi, tamil, myanmar, telugu, batak, avestan, mahajani, sundanese, duployan, bengali, mandaic, dogra, saurashtra, grantha, buhid, sogdian, cham, gurmukhi, psalter-pahlavi, tibetan, tai-le, tai-viet, takri</li>
-<li>U+2010 HYPHEN: try adding one of: coptic, yi, hebrew, sora-sompeng, syloti-nagri, armenian, cham, arabic, kharoshthi, kaithi, lisu, sundanese, kayah-li</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: buginese, devanagari, duployan, tai-tham, gunjala-gondi, tamil, modi, old-hungarian, rejang, kannada, mahajani, sinhala, javanese, tagbanwa, saurashtra, takri, manichaean, buhid, hanifi-rohingya, arabic, hebrew, khmer, avestan, bengali, cham, khudawadi, malayalam, sogdian, mongolian, tai-le, telugu, syriac, thaana, nko, grantha, gurmukhi, oriya, sharada, kharoshthi, newa, tagalog, tibetan, mandaic, gujarati, batak, masaram-gondi, dogra, brahmi, psalter-pahlavi, siddham, kaithi, kayah-li, yi, tirhuta, pahawh-hmong, tai-viet, lao, lepcha, tifinagh, chakma, khojki, warang-citi, myanmar, bhaiksuki, new-tai-lue, sundanese, thai, limbu, zanabazar-square, balinese, hanunoo, phags-pa, meetei-mayek, syloti-nagri</li>
+<li>U+2010 HYPHEN: try adding one of: cham, coptic, kaithi, kayah-li, yi, armenian, sundanese, kharoshthi, sora-sompeng, lisu, arabic, hebrew, syloti-nagri</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
@@ -927,8 +919,8 @@ definitions.</p>
 <li>U+217A SMALL ROMAN NUMERAL ELEVEN: try adding symbols</li>
 <li>U+217B SMALL ROMAN NUMERAL TWELVE: try adding symbols</li>
 <li>U+2189 VULGAR FRACTION ZERO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
 <li>U+21D2 RIGHTWARDS DOUBLE ARROW: try adding math</li>
 <li>U+21D4 LEFT RIGHT DOUBLE ARROW: try adding math</li>
 <li>U+2200 FOR ALL: try adding math</li>
@@ -941,7 +933,7 @@ definitions.</p>
 <li>U+220B CONTAINS AS MEMBER: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: symbols, tai-tham, yi, math</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221D PROPORTIONAL TO: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
@@ -977,26 +969,26 @@ definitions.</p>
 <li>U+22EF MIDLINE HORIZONTAL ELLIPSIS: try adding math</li>
 <li>U+2303 UP ARROWHEAD: try adding symbols</li>
 <li>U+2312 ARC: try adding symbols</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: yi, symbols, mongolian</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: yi, symbols, mongolian</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: yi, symbols, mongolian</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: yi, symbols, mongolian</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: yi, symbols, mongolian</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: yi, symbols, mongolian</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: yi, symbols, mongolian</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: yi, symbols, mongolian</li>
-<li>U+2469 CIRCLED NUMBER TEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+246A CIRCLED NUMBER ELEVEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+246B CIRCLED NUMBER TWELVE: try adding one of: yi, symbols, mongolian</li>
-<li>U+246C CIRCLED NUMBER THIRTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+246D CIRCLED NUMBER FOURTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+246E CIRCLED NUMBER FIFTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+246F CIRCLED NUMBER SIXTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2470 CIRCLED NUMBER SEVENTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: yi, symbols, mongolian</li>
-<li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: yi, symbols, mongolian</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: symbols, yi, mongolian</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: symbols, yi, mongolian</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: symbols, yi, mongolian</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: symbols, yi, mongolian</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: symbols, yi, mongolian</li>
+<li>U+2469 CIRCLED NUMBER TEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246A CIRCLED NUMBER ELEVEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246B CIRCLED NUMBER TWELVE: try adding one of: symbols, yi, mongolian</li>
+<li>U+246C CIRCLED NUMBER THIRTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246D CIRCLED NUMBER FOURTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246E CIRCLED NUMBER FIFTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+246F CIRCLED NUMBER SIXTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2470 CIRCLED NUMBER SEVENTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2471 CIRCLED NUMBER EIGHTEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2472 CIRCLED NUMBER NINETEEN: try adding one of: symbols, yi, mongolian</li>
+<li>U+2473 CIRCLED NUMBER TWENTY: try adding one of: symbols, yi, mongolian</li>
 <li>U+2500 BOX DRAWINGS LIGHT HORIZONTAL: try adding symbols2</li>
 <li>U+2501 BOX DRAWINGS HEAVY HORIZONTAL: try adding symbols2</li>
 <li>U+2502 BOX DRAWINGS LIGHT VERTICAL: try adding symbols2</li>
@@ -1032,12 +1024,12 @@ definitions.</p>
 <li>U+25A0 BLACK SQUARE: try adding symbols</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
 <li>U+25CE BULLSEYE: try adding symbols</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
@@ -1051,9 +1043,9 @@ definitions.</p>
 <li>U+261F WHITE DOWN POINTING INDEX: try adding symbols</li>
 <li>U+2640 FEMALE SIGN: try adding symbols</li>
 <li>U+2642 MALE SIGN: try adding symbols</li>
-<li>U+266A EIGHTH NOTE: try adding one of: symbols, music</li>
-<li>U+266D MUSIC FLAT SIGN: try adding one of: math, symbols, music</li>
-<li>U+266F MUSIC SHARP SIGN: try adding one of: math, symbols, music</li>
+<li>U+266A EIGHTH NOTE: try adding one of: music, symbols</li>
+<li>U+266D MUSIC FLAT SIGN: try adding one of: music, symbols, math</li>
+<li>U+266F MUSIC SHARP SIGN: try adding one of: music, symbols, math</li>
 <li>U+2764 HEAVY BLACK HEART: try adding symbols</li>
 <li>U+301F LOW DOUBLE PRIME QUOTATION MARK: not included in any glyphset definition</li>
 <li>U+3231 PARENTHESIZED IDEOGRAPH STOCK: not included in any glyphset definition</li>
