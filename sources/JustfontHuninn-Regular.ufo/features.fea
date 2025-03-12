@@ -40,169 +40,206 @@ lookup ccmp_Other_1 {
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
 } ccmp_Other_1;
+
 lookup ccmp_tl_poj {
-    # 2th tone of TL, POJ
-    sub a acutecomb by aacute;
-    sub e acutecomb by eacute;
-    sub i acutecomb by iacute;
-    sub o acutecomb by oacute;
-    sub u acutecomb by uacute;
-    sub m acutecomb by macute;
-    sub n acutecomb by nacute;
-    sub A acutecomb by Aacute;
-    sub E acutecomb by Eacute;
-    sub I acutecomb by Iacute;
-    sub O acutecomb by Oacute;
-    sub U acutecomb by Uacute;
-    sub M acutecomb by Macute;
-    sub N acutecomb by Nacute;
-#    sub o dotaboverightcomb acutecomb by oo-poj_acutecomb;
-#    sub O dotaboverightcomb acutecomb by OO-poj_acutecomb;
-
-    # 3th tone of TL, POJ
-    sub a gravecomb by agrave;
-    sub e gravecomb by egrave;
-    sub i gravecomb by igrave;
-    sub o gravecomb by ograve;
-    sub u gravecomb by ugrave;
-    sub m gravecomb by m_gravecomb;
-    sub n gravecomb by ngrave;
-    sub A gravecomb by Agrave;
-    sub E gravecomb by Egrave;
-    sub I gravecomb by Igrave;
-    sub O gravecomb by Ograve;
-    sub U gravecomb by Ugrave;
-    sub M gravecomb by M_gravecomb;
-    sub N gravecomb by Ngrave;
-#    sub o dotaboverightcomb gravecomb by oo-poj_gravecomb;
-#    sub O dotaboverightcomb gravecomb by OO-poj_gravecomb;
-
-    # 5th tone of TL, POJ
-    sub a circumflexcomb by acircumflex;
-    sub e circumflexcomb by ecircumflex;
-    sub i circumflexcomb by icircumflex;
-    sub o circumflexcomb by ocircumflex;
-    sub u circumflexcomb by ucircumflex;
-    sub m circumflexcomb by m_circumflexcomb;
-    sub n circumflexcomb by n_circumflexcomb;
-    sub A circumflexcomb by Acircumflex;
-    sub E circumflexcomb by Ecircumflex;
-    sub I circumflexcomb by Icircumflex;
-    sub O circumflexcomb by Ocircumflex;
-    sub U circumflexcomb by Ucircumflex;
-    sub M circumflexcomb by M_circumflexcomb;
-    sub N circumflexcomb by N_circumflexcomb;
-#    sub o dotaboverightcomb circumflexcomb by oo-poj_circumflexcomb;
-#    sub O dotaboverightcomb circumflexcomb by OO-poj_circumflexcomb;
-
-    # 6th tone of TL
-    sub a caroncomb by acaron;
-    sub e caroncomb by ecaron;
-    sub i caroncomb by icaron;
-    sub o caroncomb by ocaron;
-    sub u caroncomb by ucaron;
-    sub m caroncomb by m_caroncomb;
-    sub n caroncomb by ncaron;
-    sub A caroncomb by Acaron;
-    sub E caroncomb by Ecaron;
-    sub I caroncomb by Icaron;
-    sub O caroncomb by Ocaron;
-    sub U caroncomb by Ucaron;
-    sub M caroncomb by M_caroncomb;
-    sub N caroncomb by Ncaron;
-#    sub o dotaboverightcomb caroncomb by oo-poj_caroncomb;
-#    sub O dotaboverightcomb caroncomb by OO-poj_caroncomb;
-
-    # 7th tone of TL, POJ
-    sub a macroncomb by amacron;
-    sub e macroncomb by emacron;
-    sub i macroncomb by imacron;
-    sub o macroncomb by omacron;
-    sub u macroncomb by umacron;
-    sub m macroncomb by m_macroncomb;
-    sub n macroncomb by n_macroncomb;
-    sub A macroncomb by Amacron;
-    sub E macroncomb by Emacron;
-    sub I macroncomb by Imacron;
-    sub O macroncomb by Omacron;
-    sub U macroncomb by Umacron;
-    sub M macroncomb by M_macroncomb;
-    sub N macroncomb by N_macroncomb;
-#    sub o dotaboverightcomb macroncomb by oo-poj_macroncomb;
-#    sub O dotaboverightcomb macroncomb by OO-poj_macroncomb;
-
-    # 8th tone of TL, POJ
-    sub a verticallineabovecomb by a_verticallineabovecomb;
-    sub e verticallineabovecomb by e_verticallineabovecomb;
-    sub i verticallineabovecomb by i_verticallineabovecomb;
-    sub o verticallineabovecomb by o_verticallineabovecomb;
-    sub u verticallineabovecomb by u_verticallineabovecomb;
-    sub m verticallineabovecomb by m_verticallineabovecomb;
-    sub n verticallineabovecomb by n_verticallineabovecomb;
-    sub A verticallineabovecomb by A_verticallineabovecomb;
-    sub E verticallineabovecomb by E_verticallineabovecomb;
-    sub I verticallineabovecomb by I_verticallineabovecomb;
-    sub O verticallineabovecomb by O_verticallineabovecomb;
-    sub U verticallineabovecomb by U_verticallineabovecomb;
-    sub M verticallineabovecomb by M_verticallineabovecomb;
-    sub N verticallineabovecomb by N_verticallineabovecomb;
-#    sub o dotaboverightcomb verticallineabovecomb by oo-poj_verticallineabovecomb;
-#    sub O dotaboverightcomb verticallineabovecomb by OO-poj_verticallineabovecomb;
+	# 2th tone of TL, POJ
+	sub a acutecomb by aacute;
+	sub e acutecomb by eacute;
+	sub i acutecomb by iacute;
+	sub idotless acutecomb by iacute;
+	sub o acutecomb by oacute;
+	sub u acutecomb by uacute;
+	sub m acutecomb by macute;
+	sub n acutecomb by nacute;
+	sub A acutecomb by Aacute;
+	sub E acutecomb by Eacute;
+	sub I acutecomb by Iacute;
+	sub O acutecomb by Oacute;
+	sub U acutecomb by Uacute;
+	sub M acutecomb by Macute;
+	sub N acutecomb by Nacute;
+	sub o dotaboverightcomb acutecomb by oacute_dotaboverightcomb;
+	sub O dotaboverightcomb acutecomb by Oacute_dotaboverightcomb;
+	sub o acutecomb dotaboverightcomb by oacute_dotaboverightcomb;
+	sub O acutecomb dotaboverightcomb by Oacute_dotaboverightcomb;
+	
+	# 3th tone of TL, POJ
+	sub a gravecomb by agrave;
+	sub e gravecomb by egrave;
+	sub i gravecomb by igrave;
+	sub idotless gravecomb by igrave;
+	sub o gravecomb by ograve;
+	sub u gravecomb by ugrave;
+	sub m gravecomb by m_gravecomb;
+	sub n gravecomb by ngrave;
+	sub A gravecomb by Agrave;
+	sub E gravecomb by Egrave;
+	sub I gravecomb by Igrave;
+	sub O gravecomb by Ograve;
+	sub U gravecomb by Ugrave;
+	sub M gravecomb by M_gravecomb;
+	sub N gravecomb by Ngrave;
+	sub o dotaboverightcomb gravecomb by ograve_dotaboverightcomb;
+	sub O dotaboverightcomb gravecomb by Ograve_dotaboverightcomb;
+	sub o gravecomb dotaboverightcomb by ograve_dotaboverightcomb;
+	sub O gravecomb dotaboverightcomb by Ograve_dotaboverightcomb;
+	
+	# 5th tone of TL, POJ
+	sub a circumflexcomb by acircumflex;
+	sub e circumflexcomb by ecircumflex;
+	sub i circumflexcomb by icircumflex;
+	sub idotless circumflexcomb by icircumflex;
+	sub o circumflexcomb by ocircumflex;
+	sub u circumflexcomb by ucircumflex;
+	sub m circumflexcomb by m_circumflexcomb;
+	sub n circumflexcomb by n_circumflexcomb;
+	sub A circumflexcomb by Acircumflex;
+	sub E circumflexcomb by Ecircumflex;
+	sub I circumflexcomb by Icircumflex;
+	sub O circumflexcomb by Ocircumflex;
+	sub U circumflexcomb by Ucircumflex;
+	sub M circumflexcomb by M_circumflexcomb;
+	sub N circumflexcomb by N_circumflexcomb;
+	sub o dotaboverightcomb circumflexcomb by ocircumflex_dotaboverightcomb;
+	sub O dotaboverightcomb circumflexcomb by Ocircumflex_dotaboverightcomb;
+	sub o circumflexcomb dotaboverightcomb by ocircumflex_dotaboverightcomb;
+	sub O circumflexcomb dotaboverightcomb by Ocircumflex_dotaboverightcomb;
+	
+	# 6th tone of TL
+	sub a caroncomb by acaron;
+	sub e caroncomb by ecaron;
+	sub i caroncomb by icaron;
+	sub idotless caroncomb by icaron;
+	sub o caroncomb by ocaron;
+	sub u caroncomb by ucaron;
+	sub m caroncomb by m_caroncomb;
+	sub n caroncomb by ncaron;
+	sub A caroncomb by Acaron;
+	sub E caroncomb by Ecaron;
+	sub I caroncomb by Icaron;
+	sub O caroncomb by Ocaron;
+	sub U caroncomb by Ucaron;
+	sub M caroncomb by M_caroncomb;
+	sub N caroncomb by Ncaron;
+	sub o dotaboverightcomb caroncomb by ocaron_dotaboverightcomb;
+	sub O dotaboverightcomb caroncomb by Ocaron_dotaboverightcomb;
+	sub o caroncomb dotaboverightcomb by ocaron_dotaboverightcomb;
+	sub O caroncomb dotaboverightcomb by Ocaron_dotaboverightcomb;
+	
+	# 7th tone of TL, POJ
+	sub a macroncomb by amacron;
+	sub e macroncomb by emacron;
+	sub i macroncomb by imacron;
+	sub idotless macroncomb by imacron;
+	sub o macroncomb by omacron;
+	sub u macroncomb by umacron;
+	sub m macroncomb by m_macroncomb;
+	sub n macroncomb by n_macroncomb;
+	sub A macroncomb by Amacron;
+	sub E macroncomb by Emacron;
+	sub I macroncomb by Imacron;
+	sub O macroncomb by Omacron;
+	sub U macroncomb by Umacron;
+	sub M macroncomb by M_macroncomb;
+	sub N macroncomb by N_macroncomb;
+	sub o dotaboverightcomb macroncomb by omacron_dotaboverightcomb;
+	sub O dotaboverightcomb macroncomb by Omacron_dotaboverightcomb;
+	sub o macroncomb dotaboverightcomb by omacron_dotaboverightcomb;
+	sub O macroncomb dotaboverightcomb by Omacron_dotaboverightcomb;
+	
+	# 8th tone of TL, POJ
+	sub a verticallineabovecomb by a_verticallineabovecomb;
+	sub e verticallineabovecomb by e_verticallineabovecomb;
+	sub i verticallineabovecomb by i_verticallineabovecomb;
 	sub idotless verticallineabovecomb by i_verticallineabovecomb;
-
-    # 9th tone of TL
-    sub a hungarumlautcomb by a_hungarumlautcomb;
-    sub e hungarumlautcomb by e_hungarumlautcomb;
-    sub i hungarumlautcomb by i_hungarumlautcomb;
-    sub o hungarumlautcomb by ohungarumlaut;
-    sub u hungarumlautcomb by uhungarumlaut;
-    sub m hungarumlautcomb by m_hungarumlautcomb;
-    sub n hungarumlautcomb by n_hungarumlautcomb;
-    sub A hungarumlautcomb by A_hungarumlautcomb;
-    sub E hungarumlautcomb by E_hungarumlautcomb;
-    sub I hungarumlautcomb by I_hungarumlautcomb;
-    sub O hungarumlautcomb by Ohungarumlaut;
-    sub U hungarumlautcomb by Uhungarumlaut;
-    sub M hungarumlautcomb by M_hungarumlautcomb;
-    sub N hungarumlautcomb by N_hungarumlautcomb;
-#    sub o dotaboverightcomb hungarumlautcomb by oo-poj_hungarumlautcomb;
-#    sub O dotaboverightcomb hungarumlautcomb by OO-poj_hungarumlautcomb;
-
-    # 9th tone of POJ
-    sub a brevecomb by abreve;
-    sub e brevecomb by ebreve;
-    sub i brevecomb by ibreve;
-    sub o brevecomb by obreve;
-    sub u brevecomb by ubreve;
-    sub m brevecomb by m_brevecomb;
-    sub n brevecomb by n_brevecomb;
-    sub A brevecomb by Abreve;
-    sub E brevecomb by Ebreve;
-    sub I brevecomb by Ibreve;
-    sub O brevecomb by Obreve;
-    sub U brevecomb by Ubreve;
-    sub M brevecomb by M_brevecomb;
-    sub N brevecomb by N_brevecomb;
-#    sub o dotaboverightcomb brevecomb by oo-poj_brevecomb;
-#    sub O dotaboverightcomb brevecomb by OO-poj_brevecomb;
-
-    # oo and compatible replacements
-    sub o dotaboverightcomb by oo-poj;
-    sub O dotaboverightcomb by OO-poj;
-#    sub oacute dotaboverightcomb by oo-poj_acutecomb;
-#    sub Oacute dotaboverightcomb by OO-poj_acutecomb;
-#    sub ograve dotaboverightcomb by oo-poj_gravecomb;
-#    sub Ograve dotaboverightcomb by OO-poj_gravecomb;
-#    sub ocircumflex dotaboverightcomb by oo-poj_circumflexcomb;
-#    sub Ocircumflex dotaboverightcomb by OO-poj_circumflexcomb;
-#    sub ocaron dotaboverightcomb by oo-poj_caroncomb;
-#    sub Ocaron dotaboverightcomb by OO-poj_caroncomb;
-#    sub omacron dotaboverightcomb by oo-poj_macroncomb;
-#    sub Omacron dotaboverightcomb by OO-poj_macroncomb;
-#    sub ohungarumlaut dotaboverightcomb by oo-poj_hungarumlautcomb;
-#    sub Ohungarumlaut dotaboverightcomb by OO-poj_hungarumlautcomb;
-#    sub obreve dotaboverightcomb by oo-poj_brevecomb;
-#    sub Obreve dotaboverightcomb by OO-poj_brevecomb;
+	sub o verticallineabovecomb by o_verticallineabovecomb;
+	sub u verticallineabovecomb by u_verticallineabovecomb;
+	sub m verticallineabovecomb by m_verticallineabovecomb;
+	sub n verticallineabovecomb by n_verticallineabovecomb;
+	sub A verticallineabovecomb by A_verticallineabovecomb;
+	sub E verticallineabovecomb by E_verticallineabovecomb;
+	sub I verticallineabovecomb by I_verticallineabovecomb;
+	sub O verticallineabovecomb by O_verticallineabovecomb;
+	sub U verticallineabovecomb by U_verticallineabovecomb;
+	sub M verticallineabovecomb by M_verticallineabovecomb;
+	sub N verticallineabovecomb by N_verticallineabovecomb;
+	sub o dotaboverightcomb verticallineabovecomb by o_verticallineabovecomb_dotaboverightcomb;
+	sub O dotaboverightcomb verticallineabovecomb by O_verticallineabovecomb_dotaboverightcomb;
+	sub o verticallineabovecomb dotaboverightcomb by o_verticallineabovecomb_dotaboverightcomb;
+	sub O verticallineabovecomb dotaboverightcomb by O_verticallineabovecomb_dotaboverightcomb;
+	sub idotless verticallineabovecomb by i_verticallineabovecomb;
+	
+	# 9th tone of TL
+	sub a hungarumlautcomb by a_hungarumlautcomb;
+	sub e hungarumlautcomb by e_hungarumlautcomb;
+	sub i hungarumlautcomb by i_hungarumlautcomb;
+	sub idotless hungarumlautcomb by i_hungarumlautcomb;
+	sub o hungarumlautcomb by ohungarumlaut;
+	sub u hungarumlautcomb by uhungarumlaut;
+	sub m hungarumlautcomb by m_hungarumlautcomb;
+	sub n hungarumlautcomb by n_hungarumlautcomb;
+	sub A hungarumlautcomb by A_hungarumlautcomb;
+	sub E hungarumlautcomb by E_hungarumlautcomb;
+	sub I hungarumlautcomb by I_hungarumlautcomb;
+	sub O hungarumlautcomb by Ohungarumlaut;
+	sub U hungarumlautcomb by Uhungarumlaut;
+	sub M hungarumlautcomb by M_hungarumlautcomb;
+	sub N hungarumlautcomb by N_hungarumlautcomb;
+	sub o dotaboverightcomb hungarumlautcomb by o_hungarumlautcomb_dotaboverightcomb;
+	sub O dotaboverightcomb hungarumlautcomb by O_hungarumlautcomb_dotaboverightcomb;
+	sub o hungarumlautcomb dotaboverightcomb by o_hungarumlautcomb_dotaboverightcomb;
+	sub O hungarumlautcomb dotaboverightcomb by O_hungarumlautcomb_dotaboverightcomb;
+	
+	# 9th tone of POJ
+	sub a brevecomb by abreve;
+	sub e brevecomb by ebreve;
+	sub i brevecomb by ibreve;
+	sub idotless brevecomb by ibreve;
+	sub o brevecomb by obreve;
+	sub u brevecomb by ubreve;
+	sub m brevecomb by m_brevecomb;
+	sub n brevecomb by n_brevecomb;
+	sub A brevecomb by Abreve;
+	sub E brevecomb by Ebreve;
+	sub I brevecomb by Ibreve;
+	sub O brevecomb by Obreve;
+	sub U brevecomb by Ubreve;
+	sub M brevecomb by M_brevecomb;
+	sub N brevecomb by N_brevecomb;
+	sub o dotaboverightcomb brevecomb by oo_brevecomb-poj;
+	sub O dotaboverightcomb brevecomb by OO_brevecomb-poj;
+	sub o brevecomb dotaboverightcomb by oo_brevecomb-poj;
+	sub O brevecomb dotaboverightcomb by OO_brevecomb-poj;
+	
+	
+	# oo and compatible replacements
+	sub o dotaboverightcomb by o_dotaboverightcomb;
+	sub O dotaboverightcomb by O_dotaboverightcomb;
+	sub oacute dotaboverightcomb by oacute_dotaboverightcomb;
+	sub Oacute dotaboverightcomb by Oacute_dotaboverightcomb;
+	sub ograve dotaboverightcomb by ograve_dotaboverightcomb;
+	sub Ograve dotaboverightcomb by Ograve_dotaboverightcomb;
+	sub ocircumflex dotaboverightcomb by ocircumflex_dotaboverightcomb;
+	sub Ocircumflex dotaboverightcomb by Ocircumflex_dotaboverightcomb;
+	sub ocaron dotaboverightcomb by ocaron_dotaboverightcomb;
+	sub Ocaron dotaboverightcomb by Ocaron_dotaboverightcomb;
+	sub omacron dotaboverightcomb by omacron_dotaboverightcomb;
+	sub Omacron dotaboverightcomb by Omacron_dotaboverightcomb;
+	sub ohungarumlaut dotaboverightcomb by o_hungarumlautcomb_dotaboverightcomb;
+	sub Ohungarumlaut dotaboverightcomb by O_hungarumlautcomb_dotaboverightcomb;
+	sub obreve dotaboverightcomb by oo_brevecomb-poj;
+	sub Obreve dotaboverightcomb by OO_brevecomb-poj;
+	
+	
+	# U dieresisbelow
+	sub udieresisbelow gravecomb by udieresisbelow_gravecomb;
+	sub udieresisbelow acutecomb by udieresisbelow_acutecomb;
+	sub udieresisbelow circumflexcomb by udieresisbelow_circumflexcomb;
+	sub udieresisbelow verticallineabovecomb by udieresisbelow_verticallineabovecomb;
+	sub Udieresisbelow gravecomb by Udieresisbelow_gravecomb;
+	sub Udieresisbelow acutecomb by Udieresisbelow_acutecomb;
+	sub Udieresisbelow circumflexcomb by Udieresisbelow_circumflexcomb;
+	sub Udieresisbelow verticallineabovecomb by Udieresisbelow_verticallineabovecomb;
 } ccmp_tl_poj;
 
 		
@@ -328,9 +365,22 @@ sub nine by nine.dnom;
 
 feature frac {
 # automatic
+sub one slash eight by oneeighth;
 sub one slash four by onequarter;
+sub three slash eight by threeeighths;
 sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
 sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+sub one slash five by onefifth;
+sub two slash five by twofifths;
+sub three slash five by threefifths;
+sub four slash five by fourfifths;
+sub one slash six by onesixth;
+sub five slash six by fivesixths;
+sub zero slash three by zerothird;
 } frac;
 
 feature ordn {
@@ -790,22 +840,3 @@ sub equal.full by equal.full.vert;
 sub prolonged-kana by prolonged-kana.vert;
 } vrt2;
 
-table BASE {
-  HorizAxis.BaseTagList             icfb    icft    ideo    romn;
-  HorizAxis.BaseScriptList  
-                DFLT 	ideo  	    -94    795    -148    0,
-                hani  	ideo   	    -94    795    -148    0,
-                kana  	ideo   	    -94    795    -148    0,
-                latn  	romn    	-94    795    -148    0,
-                cyrl  	romn    	-94    795    -148    0,
-                grek  	romn   	    -94    795    -148    0;
-
-  VertAxis.BaseTagList              icfb    icft    ideo    romn;
-  VertAxis.BaseScriptList 
-                DFLT  	ideo    	 56    944    0    149,
-                hani  	ideo    	 56    944    0    149,
-                kana  	ideo    	 56    944    0    149,
-                latn  	romn   	     56    944    0    149,
-                cyrl  	romn    	 56    944    0    149,
-                grek  	romn    	 56    944    0    149;
-} BASE;

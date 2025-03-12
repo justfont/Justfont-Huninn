@@ -1,70 +1,70 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cornerbracketleft.vert" format="2">
-  <advance height="1000" width="1000"/>
-  <unicode hex="FE41"/>
-  <note>
-uniFE41
-</note>
-  <outline>
-    <contour>
-      <point x="928" y="-98" type="curve" smooth="yes"/>
-      <point x="951" y="-98"/>
-      <point x="964" y="-84"/>
-      <point x="964" y="-57" type="curve" smooth="yes"/>
-      <point x="964" y="171" type="line" smooth="yes"/>
-      <point x="964" y="191"/>
-      <point x="957" y="208"/>
-      <point x="941" y="225" type="curve" smooth="yes"/>
-      <point x="927" y="240"/>
-      <point x="908" y="248"/>
-      <point x="887" y="248" type="curve" smooth="yes"/>
-      <point x="218" y="248" type="line" smooth="yes"/>
-      <point x="191" y="248"/>
-      <point x="178" y="235"/>
-      <point x="178" y="212" type="curve" smooth="yes"/>
-      <point x="178" y="188"/>
-      <point x="191" y="176"/>
-      <point x="218" y="176" type="curve" smooth="yes"/>
-      <point x="847" y="176" type="line" smooth="yes"/>
-      <point x="877" y="176"/>
-      <point x="892" y="161"/>
-      <point x="892" y="131" type="curve" smooth="yes"/>
-      <point x="892" y="-57" type="line" smooth="yes"/>
-      <point x="892" y="-84"/>
-      <point x="904" y="-98"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.hugojourdan.ColorFlow</key>
-      <dict>
-        <key>0</key>
-        <integer>0</integer>
-        <key>1</key>
-        <integer>0</integer>
-        <key>10</key>
-        <integer>0</integer>
-        <key>11</key>
-        <integer>0</integer>
-        <key>2</key>
-        <integer>0</integer>
-        <key>3</key>
-        <integer>0</integer>
-        <key>4</key>
-        <integer>0</integer>
-        <key>5</key>
-        <integer>0</integer>
-        <key>6</key>
-        <integer>0</integer>
-        <key>7</key>
-        <integer>0</integer>
-        <key>8</key>
-        <integer>0</integer>
-        <key>9</key>
-        <integer>0</integer>
-      </dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-17 10:11:00 +0000</string>
-    </dict>
-  </lib>
+	<advance width="1000"/>
+	<unicode hex="FE41"/>
+	<note>
+		uniFE41
+	</note>
+	<outline>
+		<contour>
+			<point x="928" y="-69" type="curve" smooth="yes"/>
+			<point x="951" y="-69"/>
+			<point x="964" y="-55"/>
+			<point x="964" y="-28" type="curve" smooth="yes"/>
+			<point x="964" y="200" type="line" smooth="yes"/>
+			<point x="964" y="220"/>
+			<point x="957" y="237"/>
+			<point x="941" y="254" type="curve" smooth="yes"/>
+			<point x="927" y="269"/>
+			<point x="908" y="277"/>
+			<point x="887" y="277" type="curve" smooth="yes"/>
+			<point x="218" y="277" type="line" smooth="yes"/>
+			<point x="191" y="277"/>
+			<point x="178" y="264"/>
+			<point x="178" y="241" type="curve" smooth="yes"/>
+			<point x="178" y="217"/>
+			<point x="191" y="205"/>
+			<point x="218" y="205" type="curve" smooth="yes"/>
+			<point x="847" y="205" type="line" smooth="yes"/>
+			<point x="877" y="205"/>
+			<point x="892" y="190"/>
+			<point x="892" y="160" type="curve" smooth="yes"/>
+			<point x="892" y="-28" type="line" smooth="yes"/>
+			<point x="892" y="-55"/>
+			<point x="904" y="-69"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 03:41:22 +0000</string>
+		</dict>
+	</lib>
 </glyph>

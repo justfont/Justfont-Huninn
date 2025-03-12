@@ -41,6 +41,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 - **May 17, 2024. Version 1.00**
   - Fork from original typeface repository ([justfont/open-huninn-font](https://github.com/justfont/open-huninn-font)), modify the OFL License, and rename it to **Justfont Huninn**.
+- **March 12, 2025. Version 1.001**
+  - Adjust metrcis and specs based on [Googld Font CJK standards](https://github.com/google/fonts/issues/8911#issuecomment-2625741574).
 
 ## License
 
@@ -48,7 +50,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at [https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
 
 ## About justfont
-
 
 Established in 2010, justfont is a Taiwan-based new-generation type design and typography education business. Renowned works including the world's first crowdfunded Chinese font [*Jin Xuan*](https://justfont.com/jinxuan/). justfont also supports various independent type designers in Taiwan, with prominent cases such as [*Cream Font*](https://justfont.com/creamfont/), [*Burn Font*](https://justfont.com/burnfont/), *Tears Font*, and [*Taiwan Road Font*](https://justfont.com/twroadfont/).
 

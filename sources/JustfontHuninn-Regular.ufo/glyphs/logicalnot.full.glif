@@ -1,70 +1,70 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot.full" format="2">
-  <advance height="1000" width="1000"/>
-  <unicode hex="FFE2"/>
-  <note>
-uniFFE2
-</note>
-  <outline>
-    <contour>
-      <point x="820" y="76" type="curve" smooth="yes"/>
-      <point x="844" y="76"/>
-      <point x="854" y="91"/>
-      <point x="854" y="118" type="curve" smooth="yes"/>
-      <point x="854" y="520" type="line" smooth="yes"/>
-      <point x="854" y="540"/>
-      <point x="849" y="558"/>
-      <point x="834" y="572" type="curve" smooth="yes"/>
-      <point x="820" y="586"/>
-      <point x="802" y="594"/>
-      <point x="781" y="594" type="curve" smooth="yes"/>
-      <point x="150" y="594" type="line" smooth="yes"/>
-      <point x="123" y="594"/>
-      <point x="108" y="582"/>
-      <point x="108" y="560" type="curve" smooth="yes"/>
-      <point x="108" y="537"/>
-      <point x="123" y="525"/>
-      <point x="150" y="525" type="curve" smooth="yes"/>
-      <point x="738" y="525" type="line" smooth="yes"/>
-      <point x="771" y="525"/>
-      <point x="787" y="510"/>
-      <point x="787" y="478" type="curve" smooth="yes"/>
-      <point x="787" y="118" type="line" smooth="yes"/>
-      <point x="787" y="91"/>
-      <point x="798" y="76"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.hugojourdan.ColorFlow</key>
-      <dict>
-        <key>0</key>
-        <integer>0</integer>
-        <key>1</key>
-        <integer>0</integer>
-        <key>10</key>
-        <integer>0</integer>
-        <key>11</key>
-        <integer>0</integer>
-        <key>2</key>
-        <integer>0</integer>
-        <key>3</key>
-        <integer>0</integer>
-        <key>4</key>
-        <integer>0</integer>
-        <key>5</key>
-        <integer>0</integer>
-        <key>6</key>
-        <integer>0</integer>
-        <key>7</key>
-        <integer>0</integer>
-        <key>8</key>
-        <integer>0</integer>
-        <key>9</key>
-        <integer>0</integer>
-      </dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-05-17 10:11:00 +0000</string>
-    </dict>
-  </lib>
+	<advance width="1000"/>
+	<unicode hex="FFE2"/>
+	<note>
+		uniFFE2
+	</note>
+	<outline>
+		<contour>
+			<point x="820" y="105" type="curve" smooth="yes"/>
+			<point x="844" y="105"/>
+			<point x="854" y="120"/>
+			<point x="854" y="147" type="curve" smooth="yes"/>
+			<point x="854" y="549" type="line" smooth="yes"/>
+			<point x="854" y="569"/>
+			<point x="849" y="587"/>
+			<point x="834" y="601" type="curve" smooth="yes"/>
+			<point x="820" y="615"/>
+			<point x="802" y="623"/>
+			<point x="781" y="623" type="curve" smooth="yes"/>
+			<point x="150" y="623" type="line" smooth="yes"/>
+			<point x="123" y="623"/>
+			<point x="108" y="611"/>
+			<point x="108" y="589" type="curve" smooth="yes"/>
+			<point x="108" y="566"/>
+			<point x="123" y="554"/>
+			<point x="150" y="554" type="curve" smooth="yes"/>
+			<point x="738" y="554" type="line" smooth="yes"/>
+			<point x="771" y="554"/>
+			<point x="787" y="539"/>
+			<point x="787" y="507" type="curve" smooth="yes"/>
+			<point x="787" y="147" type="line" smooth="yes"/>
+			<point x="787" y="120"/>
+			<point x="798" y="105"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.hugojourdan.ColorFlow</key>
+			<dict>
+				<key>0</key>
+				<integer>0</integer>
+				<key>1</key>
+				<integer>0</integer>
+				<key>10</key>
+				<integer>0</integer>
+				<key>11</key>
+				<integer>0</integer>
+				<key>2</key>
+				<integer>0</integer>
+				<key>3</key>
+				<integer>0</integer>
+				<key>4</key>
+				<integer>0</integer>
+				<key>5</key>
+				<integer>0</integer>
+				<key>6</key>
+				<integer>0</integer>
+				<key>7</key>
+				<integer>0</integer>
+				<key>8</key>
+				<integer>0</integer>
+				<key>9</key>
+				<integer>0</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-03-12 03:41:22 +0000</string>
+		</dict>
+	</lib>
 </glyph>
