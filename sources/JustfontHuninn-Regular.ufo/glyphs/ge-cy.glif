@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance height="1000" width="396"/>
+  <unicode hex="0433"/>
+  <note>
+uni0433
+</note>
+  <outline>
+    <contour>
+      <point x="121" y="-6" type="curve" smooth="yes"/>
+      <point x="146" y="-6"/>
+      <point x="167" y="15"/>
+      <point x="167" y="39" type="curve" smooth="yes"/>
+      <point x="167" y="399" type="line" smooth="yes"/>
+      <point x="167" y="407"/>
+      <point x="171" y="411"/>
+      <point x="179" y="411" type="curve" smooth="yes"/>
+      <point x="322" y="411" type="line" smooth="yes"/>
+      <point x="349" y="411"/>
+      <point x="368" y="430"/>
+      <point x="368" y="454" type="curve" smooth="yes"/>
+      <point x="368" y="479"/>
+      <point x="349" y="499"/>
+      <point x="324" y="499" type="curve" smooth="yes"/>
+      <point x="121" y="499" type="line" smooth="yes"/>
+      <point x="97" y="499"/>
+      <point x="76" y="478"/>
+      <point x="76" y="453" type="curve" smooth="yes"/>
+      <point x="76" y="39" type="line" smooth="yes"/>
+      <point x="76" y="15"/>
+      <point x="97" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 10:11:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

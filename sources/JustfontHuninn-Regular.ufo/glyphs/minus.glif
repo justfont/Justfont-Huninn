@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance height="1000" width="695"/>
+  <unicode hex="2212"/>
+  <note>
+minus
+</note>
+  <outline>
+    <contour>
+      <point x="110" y="282" type="curve" smooth="yes"/>
+      <point x="584" y="282" type="line" smooth="yes"/>
+      <point x="606" y="282"/>
+      <point x="625" y="299"/>
+      <point x="625" y="322" type="curve" smooth="yes"/>
+      <point x="625" y="345"/>
+      <point x="606" y="363"/>
+      <point x="584" y="363" type="curve" smooth="yes"/>
+      <point x="110" y="363" type="line" smooth="yes"/>
+      <point x="87" y="363"/>
+      <point x="70" y="345"/>
+      <point x="70" y="322" type="curve" smooth="yes"/>
+      <point x="70" y="300"/>
+      <point x="88" y="282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-17 10:11:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

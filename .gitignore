@@ -3,7 +3,6 @@ venv
 venv-test
 build.stamp
 proof
-fonts
 node_modules
 package-lock.json
 package.json
@@ -38,3 +37,7 @@ Thumbs.db
 *(Otomatik Kaydedildi).*
 *（自动存储）.*
 *（已自動儲存）.*
+
+# Build files
+*.md
+changelist.txt
