@@ -23373,7 +23373,7 @@
 			<key>name</key>
 			<string>vheaVertLineGap</string>
 			<key>value</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
